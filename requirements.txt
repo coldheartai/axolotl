@@ -25,11 +25,11 @@ numpy>=1.24.4,<=2.0.1
 # qlora things
 evaluate==0.4.1
 scipy
-scikit-learn==1.4.2
+scikit-learn==1.5.0
 pynvml
 art
 fschat @ git+https://github.com/lm-sys/FastChat.git@27a05b04a35510afb1d767ae7e5990cbd278f8fe
-gradio==3.50.2
+gradio==4.37.1
 tensorboard
 python-dotenv==1.0.1
 autoawq>=0.2.5
